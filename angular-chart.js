@@ -1,4 +1,5 @@
 (function (factory) {
+  console.log('nada');
   'use strict';
   if (typeof exports === 'object') {
     // Node/CommonJS
